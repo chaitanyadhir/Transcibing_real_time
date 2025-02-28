@@ -1,0 +1,1 @@
+ Okay, so this is the demo audio for my transcriber program and I want to see to which extent will it transcribe this file. Basically, so my name is Chetanyanti, I am a student at college, CBC Landra.
